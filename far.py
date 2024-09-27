@@ -1,0 +1,1 @@
+print("saqaaaab is mallapppa")
